@@ -50,7 +50,6 @@ The stock World at War controls, plus:
 | Key | Action |
 |---|---|
 | 3 | switch the grenade slot between thermal detonators and land mines (`Play.bat` binds it) |
-| F (hold) | buy wall guns, land mines, doors, the box and Pack-a-Punch |
 
 ## What's in it
 
