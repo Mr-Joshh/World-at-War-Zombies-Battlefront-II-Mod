@@ -1,0 +1,71 @@
+{
+"file": "maps/_loadout.gsc",
+"sha256": "47a5404758a2062660d8480529347a922dc8b92b43f8e426ca9b5e582cd897eb",
+"lines": 851,
+"eol": "crlf",
+"result_sha256": "eb7a6981c4b36b1dd31ed16df6ca13d21ac688494df6d8c2174d78bdce740327",
+"edits": [
+[
+64,
+65,
+[
+"\t\telse if( IsSubStr( level.script, \"nazi_zombie_\" ) || level.script == \"zombie_test_map\" )"
+]
+],
+[
+66,
+68,
+[
+"\t\t\t// clonewars: every player is a clone trooper on every zombie map",
+"\t\t\tcharacter\\char_cw_clone::precache();"
+]
+],
+[
+417,
+417,
+[
+"\t\t// clonewars: clone troopers start with the Blaster Pistol (zombie_colt's weapon file is the SWBF2 pistol), like the",
+"\t\t// stock start with the Colt - the walls / box then fill the second slot instead of replacing the only gun.",
+"\t\t// It is also the last-stand pistol."
+]
+],
+[
+418,
+418,
+[
+"\t\tPrecacheItem( \"cw_dc15\" );"
+]
+],
+[
+424,
+425,
+[
+"\t\tset_player_viewmodel( \"viewmodel_cw_clone_arms\" );"
+]
+],
+[
+426,
+426,
+[
+"",
+"\t\tmaps\\_cw::init();"
+]
+],
+[
+715,
+716,
+[
+"\t\telse if( IsSubStr( level.script, \"nazi_zombie_\" ) || level.script == \"zombie_test_map\" )"
+]
+],
+[
+717,
+734,
+[
+"\t\t\t// clonewars: every player is a clone trooper on every zombie map",
+"\t\t\tself character\\char_cw_clone::main();",
+"\t\t\tself thread maps\\_cw::player_init();"
+]
+]
+]
+}

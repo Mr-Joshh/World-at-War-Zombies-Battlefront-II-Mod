@@ -1,0 +1,20 @@
+{
+ "view": {
+  "scale": 28.0,
+  "offset": [
+   -9.3,
+   0.0,
+   -3.9
+  ],
+  "pitch_deg": 2.2
+ },
+ "world": {
+  "scale": 28.0,
+  "offset": [
+   0,
+   8.5,
+   -3.0
+  ],
+  "bone": "tag_weapon"
+ }
+}

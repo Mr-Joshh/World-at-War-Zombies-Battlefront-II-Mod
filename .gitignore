@@ -1,0 +1,9 @@
+# Build output, downloaded tools and extracted game assets created by Install.bat - never commit
+work/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# maintainer-only reference screenshots (build_viewmodels.py fit / preview)
+screenshots/
