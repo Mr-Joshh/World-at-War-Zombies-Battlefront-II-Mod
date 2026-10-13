@@ -87,13 +87,6 @@ The stock World at War controls, plus:
   | Rocket Launcher | 1 rocket, then reload | 1200 blast (150 at the edge) |
   | EMP Launcher | 1.5 s, 6 shots per charge | 1900 blast (300 at the edge) |
 
-- **First person like Battlefront II:** every gun is the clone trooper's own first-person model. The Blaster Rifle,
-  Shotgun, Sniper Rifle and EMP Launcher are held in both hands. The pistols, Chaingun and Rocket Launcher are held in
-  the right hand, posed to match Battlefront II. Reloads dip the gun out of view. The guns' lights glow (the rifle's
-  red sight dots, the sniper's red eyepiece, the Rocket Launcher's green sight). Blasters fire travelling blue bolts.
-  The EMP Launcher fires a glowing blue energy ball.
-- **Crosshair:** the Battlefront II reticle with its centre dot. It turns red over droids, and aiming down the sights
-  keeps it up. The Sniper Rifle zooms in with the gun out of the way.
 - **Pack-a-Punch** makes "Elite" versions with 2.5x bullet damage, 2x blast damage and bigger magazines. Der Riese
   uses its own machine. **Nacht der Untoten gets a Pack-a-Punch machine upstairs**, in the room past the corner wall
   next to the sawed-off double-barrel wall gun (5000 points). The Nacht machine upgrades every blaster but not the
